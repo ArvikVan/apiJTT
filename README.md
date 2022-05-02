@@ -29,7 +29,18 @@
 - Дополнительные запросы и функционал<br>
 - Графический интерфейс (VUE.JS, JFX)<br>
 
-
+Добавляем клиента<br>
+![](img/1.png)<br>
+Добавляем заказ<br>
+![](img/2.png)<br>
+Получаем всех клиентов<br>
+![](img/3.png)<br>
+Получаем все заказы<br>
+![](img/4.png)<br>
+Измсеняем заказ по id<br>
+![](img/5.png)<br>
+Изменяем имя клиента по id<br>
+![](img/6.png)
 
 ### Контакты для связи<br>
 <img src="https://img.icons8.com/clouds/100/000000/gmail-new.png" width="10"/> arvikvan@gmail.com<br>
