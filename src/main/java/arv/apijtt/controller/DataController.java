@@ -2,14 +2,9 @@ package arv.apijtt.controller;
 
 import arv.apijtt.model.Clients;
 import arv.apijtt.model.Orders;
-import arv.apijtt.model.OrdersDto;
 import arv.apijtt.service.ClientServiceImpl;
 import arv.apijtt.service.OrdersServiceImpl;
-import org.hibernate.criterion.Order;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
